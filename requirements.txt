@@ -1,10 +1,10 @@
 amqp==1.4.8
 anyjson==0.3.3
 billiard==3.3.0.22
-celery==3.1.19
-certifi==2015.11.20.1
+celery==5.2.2
+certifi==2017.04.17.1
 decorator==4.0.6
-Django==1.8.7
+Django==3.2.15
 django-braces==1.8.1
 django-celery==3.1.17
 django-disqus==0.5
@@ -18,7 +18,7 @@ django-widget-tweaks==1.4.1
 elasticsearch==1.9.0
 funcsigs==0.4
 gunicorn==19.4.3
-ipython==4.0.1
+ipython==7.16.3
 ipython-genutils==0.1.0
 kombu==3.0.32
 Markdown==2.6.5
@@ -29,7 +29,7 @@ path.py==8.1.2
 pbr==1.8.1
 pexpect==4.0.1
 pickleshare==0.5
-Pillow==3.0.0
+Pillow==9.0.1
 psycopg2==2.6.1
 ptyprocess==0.5
 pyelasticsearch==1.4
@@ -40,5 +40,5 @@ simplegeneric==0.8.1
 simplejson==3.8.1
 six==1.10.0
 traitlets==4.0.0
-urllib3==1.13.1
+urllib3==1.26.5
 wheel==0.26.0
